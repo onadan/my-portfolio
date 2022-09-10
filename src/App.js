@@ -1,5 +1,4 @@
 import React from 'react'
-import About from './sections/About'
 import Contact from './sections/Contact'
 import Main from './sections/Main'
 import Project from './sections/Project'
@@ -13,7 +12,6 @@ const App = () => {
         <Main />
         <Project />
         <Skills />
-        <About />
         <Contact />
         <Footer />
       </div>
